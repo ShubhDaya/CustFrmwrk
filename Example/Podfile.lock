@@ -1,0 +1,16 @@
+PODS:
+  - CustFrmwrk (0.1.0)
+
+DEPENDENCIES:
+  - CustFrmwrk (from `../`)
+
+EXTERNAL SOURCES:
+  CustFrmwrk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustFrmwrk: 8edf51e24ae039d067025e3f10d8e4ebcecba958
+
+PODFILE CHECKSUM: a55833d025497e926e4ca36f07a52b2df49722a5
+
+COCOAPODS: 1.11.3

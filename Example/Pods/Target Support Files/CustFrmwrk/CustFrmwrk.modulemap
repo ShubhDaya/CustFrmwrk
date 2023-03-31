@@ -1,0 +1,6 @@
+framework module CustFrmwrk {
+  umbrella header "CustFrmwrk-umbrella.h"
+
+  export *
+  module * { export * }
+}
